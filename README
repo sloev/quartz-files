@@ -1,2 +1,21 @@
-readme
-most files uses all of tom bangnoise and v0002 plugins
+antima55 presents:
+quartz sketches from outta space!
+
+bw sure to check out and download/install the following plugins to have any chance to run my sketches:
+http://kriss.cx/tom/video-delay/
+http://kriss.cx/tom/datamosh/
+
+all my sketches are meant to run in vdmx so please add video input from webcam for testing purpose.
+
+Kindest regards johannesgj aka antima55
+
+_/~/_/~/_/~/_/~/_/~/_/~/_/~/_/~/_/~/_
+
+TimeBlender:	takes a video input and samples
+		the center column according to 
+		buffer size
+		it then mixes the different time
+		delays of the image together in 
+		a slit scan like fashion.
+		very psychedelic. 		
+		
